@@ -7,3 +7,18 @@ Created:December 2014
 License URI:http://support.wrapbootstrap.com/
 File Description: Place here your custom CSS styles
 */
+
+.full-text-container {
+  background-color: #84548F;
+  color: #ffffff
+}
+
+h2 {
+  color: #ffffff;
+}
+.text-default {
+  color:#84548F;
+}
+a {
+  color: #84548F;
+}
